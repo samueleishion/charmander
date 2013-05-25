@@ -9,3 +9,5 @@ to the autocomplete tool in google search. This search is done linearly thus it 
 filter the content in any way other than what has been previously typed. 
 
 For this particular version, we will search through an english dictionary containing 22 words.  
+
+View live @ http://benova.net/samuelacuna/git/charmander
